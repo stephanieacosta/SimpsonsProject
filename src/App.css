@@ -1,6 +1,6 @@
 .global-container {
   margin: 0 auto;
-  max-width: min(35rem, 100%);
+  max-width: min(28rem, 100%);
 
 }
 
@@ -33,6 +33,9 @@
   text-align: center;
   margin: auto;
   margin-top: 1rem;
+  padding: 0.5rem 2rem;
+  border: 1px solid black;
+  border-radius: 1rem;
 }
 
 .card1 {
